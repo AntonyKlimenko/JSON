@@ -1,0 +1,12 @@
+{
+  
+"summury": "Log in button is disabled on the main page",
+"report_by": "Anthony Klimeko",
+"component": "react_js",
+"priopity": "high",
+"severity": "low",
+"steps_for_reproduce": " 1. Follow link <some link> 2. Click Log in button",
+"expected_result": "Log in page is opened",
+"actual_result": "User stay on the main page"
+  
+}
